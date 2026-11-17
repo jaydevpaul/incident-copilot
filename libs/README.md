@@ -1,0 +1,1 @@
+Small shared Python packages. Rule: a lib must not depend on any service.

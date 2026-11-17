@@ -221,3 +221,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+
+# Secrets: never save .env, but do save the example file
+.env
+.env.*
+!.env.example
+
+# Java build output (Orders service)
+services/orders/build/
+services/orders/.gradle/
+
+# Eval results (made by the eval runner, can be rebuilt)
+eval/results/
+
+# Editor and system files
+.idea/
+.vscode/
+.DS_Store

@@ -1,0 +1,1 @@
+Scores the copilot. Rule: only the eval runner keeps the ground truth (the correct answer).

@@ -1,0 +1,1 @@
+The 4 services and their language (Python, Orders in Java). Rule: services talk only through HTTP and Kafka.
